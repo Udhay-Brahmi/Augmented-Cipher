@@ -1,6 +1,5 @@
 # Augmented-Cipher
 
-Augmented CipherAugmented Cipher
 App name : Augmented-Cipher. 
 Technologies include : Augmented reality, cryptography. 
 Platform : Android. 
